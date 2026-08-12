@@ -1,0 +1,84 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            17266070755
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/raw/refs/heads/main/wyrm%20roar.mp3"
+        },
+        {
+          "name": "Reload Replace",
+          "replace_ids": [
+            17266070911
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/raw/refs/heads/main/wyrm%20reload.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Hide Extra Parts",
+          "replace_ids": [
+            17249768836,
+            17249768962
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Red Main Part",
+          "replace_ids": [
+            17249768747
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/raw/refs/heads/main/wyrm%20red.obj"
+        },
+        {
+          "name": "Yellow Secondary Part",
+          "replace_ids": [
+            17249769159
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/raw/refs/heads/main/wyrm%20yellow.obj"
+        },
+        {
+          "name": "Green Glowy Part",
+          "replace_ids": [
+            17249769058
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/raw/refs/heads/main/wyrm%20green.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animations",
+      "expanded": true,
+      "children": []
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": []
+    }
+  ]
+}
