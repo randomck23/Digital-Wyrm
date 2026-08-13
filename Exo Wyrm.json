@@ -78,7 +78,26 @@
       "type": "group",
       "name": "Icon",
       "expanded": true,
-      "children": []
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            17344796376
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/blob/main/wyrm%20thumbnail.png?raw=true"
+        },
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            17344797370
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Digital-Wyrm/blob/main/wyrm%20thumbnail%202.png?raw=true"
+        }
+      ]
     }
   ]
 }
